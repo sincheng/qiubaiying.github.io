@@ -4,7 +4,7 @@ SEOTitle: test1|test2
 header-img: img/post-bg-rwd.jpg
 email: 88cathycheng@gmail.com
 description: "My data science projects portfolio"
-keyword: "Data Analytic","Data Science"
+keyword: "Data Analytic, Data"
 url: "https://sincheng.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
