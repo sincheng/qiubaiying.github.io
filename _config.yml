@@ -1,7 +1,7 @@
 # Site settings
 title: S.T. Blog
 SEOTitle: S.T. Blog|Data Analyst
-header-img: img/wood-full.jpg
+header-img: img/wood_full.jpg
 email: 88cathycheng@gmail.com
 description: "My data science projects portfolio"
 keyword: "Data Analytic, Data"
@@ -12,7 +12,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "You'll never walk alone!"
-sidebar-avatar: img/samspons.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/samspon.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
